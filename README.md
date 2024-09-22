@@ -1,6 +1,6 @@
 TASK 2 : STOPWATCH WEB APPLICATION
 
-WEBSITE : https://prodigytimer.netlify.app/
+WEBSITE : [https://prodigytimer.netlify.app/](https://prodigy-wd-2-stopwatch.netlify.app)
 
 THEME : Stop Watch
 
